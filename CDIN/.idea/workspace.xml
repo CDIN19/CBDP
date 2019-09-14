@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0173fea3-99ce-4acc-9359-45b28c82a24e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Gpython/PYTHONGUI/Calculator/.idea/Calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gpython/PYTHONGUI/Calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gpython/PYTHONGUI/Calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gpython/PYTHONGUI/Calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gpython/PYTHONGUI/Calculator/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gpython/PYTHONGUI/Calculator/calculate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gpython/PYTHONGUI/Calculator/calculatorWindow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Gpython/PYTHONGUI/Calculator/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,10 +14,20 @@
     <favorites_list name="CDIN" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/campusHack/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,11 +58,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CDIN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CDIN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CDIN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CDIN" type="462c0819:PsiDirectoryNode" />
+              <item name="campusHack" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Gpython/CODES/vfl" />
   </component>
   <component name="RecentsManager">
@@ -173,7 +192,7 @@
     <entry file="file://$PROJECT_DIR$/campusHack/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="29" column="62" lean-forward="true" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
     </entry>
