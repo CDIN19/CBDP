@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="137f5c34-81b1-43b7-9240-e746ef453340" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CDIN/campusHack/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="992" lean-forward="true" selection-start-line="992" selection-end-line="992" />
+            <state relative-caret-position="221">
+              <caret line="369" column="46" lean-forward="true" selection-start-line="369" selection-start-column="46" selection-end-line="369" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -31,43 +32,43 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CDIN" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CDIN/campusHack/index.html" />
         <option value="$PROJECT_DIR$/cdin.py" />
+        <option value="$PROJECT_DIR$/CDIN/campusHack/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="825" />
-    <option name="height" value="605" />
+    <option name="x" value="233" />
+    <option name="y" value="108" />
+    <option name="width" value="755" />
+    <option name="height" value="575" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CBDP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CBDP" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CDIN/campusHack/img/speakers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\userx\Desktop\Gpython\CBDP\CDIN\campusHack\img\speakers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\userx\Desktop\Gpython\CBDP\CDIN\campusHack\img\speakers" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,14 +100,28 @@
       <option name="project" value="LOCAL" />
       <updated>1568195201348</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Venue Removed, Footer contain Two Useful Link, one removed, Faq updated too, Text Logo added, contacted info for CDIN(fb, twitter, linkedin added to twitter),&#10;&#10;&#10;Speakers, Event redirect link, Video, Event schedule">
+      <created>1569281104220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569281104220</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Venue Removed, Footer contain Two Useful Link, one removed, Faq updated too, Text Logo added, contacted info for CDIN(fb, twitter, linkedin added to twitter),&#10;&#10;&#10;Speakers, Event redirect link, Video, Event schedule">
+      <created>1569392618866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569392618867</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1107" height="590" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24929972" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2875817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -127,16 +142,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Venue Removed, Footer contain Two Useful Link, one removed, Faq updated too, Text Logo added, contacted info for CDIN(fb, twitter, linkedin added to twitter)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Venue Removed, Footer contain Two Useful Link, one removed, Faq updated too, Text Logo added, contacted info for CDIN(fb, twitter, linkedin added to twitter)" />
+    <MESSAGE value="Venue Removed, Footer contain Two Useful Link, one removed, Faq updated too, Text Logo added, contacted info for CDIN(fb, twitter, linkedin added to twitter),&#10;&#10;&#10;Speakers, Event redirect link, Video, Event schedule" />
+    <option name="LAST_COMMIT_MESSAGE" value="Venue Removed, Footer contain Two Useful Link, one removed, Faq updated too, Text Logo added, contacted info for CDIN(fb, twitter, linkedin added to twitter),&#10;&#10;&#10;Speakers, Event redirect link, Video, Event schedule" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cdin.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cdin.py" />
     <entry file="file://$PROJECT_DIR$/CDIN/campusHack/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="992" lean-forward="true" selection-start-line="992" selection-end-line="992" />
+        <state relative-caret-position="221">
+          <caret line="369" column="46" lean-forward="true" selection-start-line="369" selection-start-column="46" selection-end-line="369" selection-end-column="46" />
         </state>
       </provider>
     </entry>
