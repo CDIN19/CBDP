@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="137f5c34-81b1-43b7-9240-e746ef453340" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/campusHack/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="370" column="58" lean-forward="true" selection-start-line="370" selection-start-column="58" selection-end-line="370" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,8 +33,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="233" />
-    <option name="y" value="108" />
+    <option name="x" value="232" />
+    <option name="y" value="107" />
     <option name="width" value="755" />
     <option name="height" value="575" />
   </component>
@@ -53,8 +44,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CBDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CBDP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CBDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CBDP" type="462c0819:PsiDirectoryNode" />
+              <item name="CDIN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CBDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CBDP" type="462c0819:PsiDirectoryNode" />
+              <item name="CDIN" type="462c0819:PsiDirectoryNode" />
+              <item name="campusHack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CBDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CBDP" type="462c0819:PsiDirectoryNode" />
+              <item name="CDIN" type="462c0819:PsiDirectoryNode" />
+              <item name="campusHack" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -62,10 +81,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CDIN/campusHack/img/speakers" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\userx\Desktop\Gpython\CBDP" />
       <recent name="C:\Users\userx\Desktop\Gpython\CBDP\CDIN\campusHack\img\speakers" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\userx\Desktop\Gpython\CBDP\CDIN\campusHack\img\speakers" />
     </key>
   </component>
@@ -133,7 +153,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1107" height="590" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2875817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2875817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -143,7 +163,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49953315" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49953315" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004669" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -161,8 +181,8 @@
     <entry file="file://$PROJECT_DIR$/cdin.py" />
     <entry file="file://$PROJECT_DIR$/CDIN/campusHack/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="370" column="58" lean-forward="true" selection-start-line="370" selection-start-column="58" selection-end-line="370" selection-end-column="58" />
+        <state relative-caret-position="68">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
         </state>
       </provider>
     </entry>
