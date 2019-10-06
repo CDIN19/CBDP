@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="137f5c34-81b1-43b7-9240-e746ef453340" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CDIN/campusHack/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="369" column="46" lean-forward="true" selection-start-line="369" selection-start-column="46" selection-end-line="369" selection-end-column="46" />
+            <state relative-caret-position="86">
+              <caret line="370" column="58" lean-forward="true" selection-start-line="370" selection-start-column="58" selection-end-line="370" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -114,14 +113,27 @@
       <option name="project" value="LOCAL" />
       <updated>1569392618867</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Venue Removed, Footer contain Two Useful Link, one removed, Faq updated too, Text Logo added, contacted info for CDIN(fb, twitter, linkedin added to twitter),&#10;&#10;&#10;Speakers, Event redirect link, Video, Event schedule">
+      <created>1569393035399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569393035399</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Venue Removed, Footer contain Two Useful Link, one removed, Faq updated too, Text Logo added, contacted info for CDIN(fb, twitter, linkedin added to twitter),&#10;&#10;&#10;Speakers, Event redirect link, Video, Event schedule">
+      <created>1569393247320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569393247320</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1107" height="590" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2875817" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2875817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -131,7 +143,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49953315" weight="0.32897604" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49953315" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004669" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Python Console" order="10" />
@@ -149,8 +161,8 @@
     <entry file="file://$PROJECT_DIR$/cdin.py" />
     <entry file="file://$PROJECT_DIR$/CDIN/campusHack/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="369" column="46" lean-forward="true" selection-start-line="369" selection-start-column="46" selection-end-line="369" selection-end-column="46" />
+        <state relative-caret-position="86">
+          <caret line="370" column="58" lean-forward="true" selection-start-line="370" selection-start-column="58" selection-end-line="370" selection-end-column="58" />
         </state>
       </provider>
     </entry>
