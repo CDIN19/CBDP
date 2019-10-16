@@ -2,8 +2,118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="137f5c34-81b1-43b7-9240-e746ef453340" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDIN/campusHack/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/._campusHack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/._Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/._contactform" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/._css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/._img" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/._js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/._lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/._speaker-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/contactform/._Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/contactform/._contactform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/css/._scss-files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/css/._style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._about-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._gallery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._hotels" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._intro-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._speakers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._subscribe-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._supporters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._venue-gallery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/._venue-info-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/gallery/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/gallery/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/gallery/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/gallery/._4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/gallery/._5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/gallery/._6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/gallery/._7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/gallery/._8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/hotels/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/hotels/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/hotels/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/speakers/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/speakers/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/speakers/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/speakers/._4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/speakers/._5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/speakers/._6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/speakers/._bizpage-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/supporters/._1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/supporters/._2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/supporters/._3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/supporters/._4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/supporters/._5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/supporters/._6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/supporters/._7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/supporters/._8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/venue-gallery/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/venue-gallery/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/venue-gallery/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/venue-gallery/._4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/venue-gallery/._5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/venue-gallery/._6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/venue-gallery/._7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/img/venue-gallery/._8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/js/._main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._animate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._bootstrap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._easing" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._font-awesome" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._jquery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._owlcarousel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._superfish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._venobox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/._wow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/animate/._animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/animate/._animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/bootstrap/._css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/bootstrap/._js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/bootstrap/css/._bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/bootstrap/css/._bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/bootstrap/js/._bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/bootstrap/js/._bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/easing/._easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/easing/._easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/._css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/._fonts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/css/._font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/css/._font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/fonts/._FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/fonts/._fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/fonts/._fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/fonts/._fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/fonts/._fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/font-awesome/fonts/._fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/jquery/._jquery-migrate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/jquery/._jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/._LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/._assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/._owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/._owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/assets/._ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/assets/._owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/assets/._owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/assets/._owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/assets/._owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/assets/._owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/assets/._owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/owlcarousel/assets/._owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/superfish/._hoverIntent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/superfish/._superfish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/superfish/._superfish.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/venobox/._venobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/venobox/._venobox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/venobox/._venobox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/wow/._wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/__MACOSX/campusHack/lib/wow/._wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDIN/campusHack/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CDIN/campusHack/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +122,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.25 AM.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.30 AM.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.33 AM.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.35 AM(1).jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.35 AM(2).jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.35 AM.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.54.47 AM.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.54.48 AM.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.58.08 AM.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.59.27 AM.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,11 +193,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="232" />
-    <option name="y" value="107" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-20" />
+    <option name="y" value="5" />
     <option name="width" value="755" />
-    <option name="height" value="575" />
+    <option name="height" value="695" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -69,6 +230,14 @@
               <item name="CDIN" type="462c0819:PsiDirectoryNode" />
               <item name="campusHack" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CBDP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CBDP" type="462c0819:PsiDirectoryNode" />
+              <item name="CDIN" type="462c0819:PsiDirectoryNode" />
+              <item name="campusHack" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,9 +320,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1107" height="590" extended-state="6" />
+    <frame x="-16" y="4" width="604" height="556" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2875817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5422535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,10 +350,46 @@
     <entry file="file://$PROJECT_DIR$/cdin.py" />
     <entry file="file://$PROJECT_DIR$/CDIN/campusHack/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="-561">
+          <caret line="36" column="48" lean-forward="true" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-06 at 1.32.51 PM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.25 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.28 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.30 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.33 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.35 AM(1).jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.35 AM(2).jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.53.35 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.54.47 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.54.48 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.59.27 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CDIN/campusHack/img/gallery/WhatsApp Image 2019-10-14 at 11.58.08 AM.jpeg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
